@@ -1,4 +1,8 @@
 /node_modules
+/yarn-error.log
+
 /index.js
 /index.d.ts
-/yarn-error.log
+/demo/demo.js
+/demo/demo.d.ts
+/demo/bundle.js

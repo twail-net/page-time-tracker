@@ -10,7 +10,7 @@
     "url": "git+https://github.com/twail-net/page-time-tracker.git"
   },
   "scripts": {
-    "prepublish": "npx tsc",
+    "prepublish": "npm tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -25,6 +25,9 @@
     "visibilityjs": "^1.2.6"
   },
   "devDependencies": {
-    "typescript": "^2.7.2"
+    "ts-loader": "^4.0.0",
+    "typescript": "^2.7.2",
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
   }
 }
