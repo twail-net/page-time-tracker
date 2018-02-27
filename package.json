@@ -1,6 +1,6 @@
 {
   "name": "page-time-tracker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Measures the true time the user spends on the page using visibilityjs",
   "main": "index.js",
   "typings": "src/query-util.d.ts",
