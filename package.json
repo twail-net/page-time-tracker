@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "Measures the true time the user spends on the page using visibilityjs",
   "main": "index.js",
+  "typings": "src/query-util.d.ts",
+  "homepage": "https://github.com/twail-net/page-time-tracker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twail-net/page-time-tracker.git"
+  },
   "scripts": {
+    "prepublish": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -12,9 +19,12 @@
     "tracking",
     "visibility"
   ],
-  "author": "TWAIL GmbH <david.poetzsch-heffter@twail.net>",
+  "author": "TWAIL GmbH",
   "license": "MIT",
   "dependencies": {
     "visibilityjs": "^1.2.6"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2"
   }
 }

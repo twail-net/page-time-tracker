@@ -7,7 +7,7 @@ interface Action {
   action: ActionFn;
 }
 
-abstract class PageTime {
+export abstract class PageTime {
   private static visibilityTimeCounter: number = 0;
   private static lastVisibleStart: number | null = null;
   private static milestones: Action[] = [];
