@@ -1,0 +1,20 @@
+{
+  "name": "page-time-tracker",
+  "version": "1.0.0",
+  "description": "Measures the true time the user spends on the page using visibilityjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "page",
+    "time",
+    "tracking",
+    "visibility"
+  ],
+  "author": "TWAIL GmbH <david.poetzsch-heffter@twail.net>",
+  "license": "MIT",
+  "dependencies": {
+    "visibilityjs": "^1.2.6"
+  }
+}
