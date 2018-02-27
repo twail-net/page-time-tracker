@@ -22,7 +22,7 @@
   "author": "TWAIL GmbH",
   "license": "MIT",
   "dependencies": {
-    "visibilityjs": "^1.2.6"
+    "visibilityjs": "^1.2.7"
   },
   "devDependencies": {
     "ts-loader": "^4.0.0",

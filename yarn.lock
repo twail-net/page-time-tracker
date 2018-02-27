@@ -4306,9 +4306,9 @@ vinyl@^2.0.1:
     remove-trailing-separator "^1.0.1"
     replace-ext "^1.0.0"
 
-visibilityjs@^1.2.6:
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/visibilityjs/-/visibilityjs-1.2.6.tgz#45babbe6fae3fa3d3b39a5a39c3b7d6bda47b101"
+visibilityjs@^1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/visibilityjs/-/visibilityjs-1.2.7.tgz#821551d003809b9e1f979144ce82dc7d5a96dd1e"
 
 vm-browserify@0.0.4:
   version "0.0.4"
